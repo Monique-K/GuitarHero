@@ -1,0 +1,12 @@
+.playerSection {
+  display: flex;
+  height: 30vh;
+  width: 70vw;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aqua
+}
+
+.player-arrow {
+  font-size: 4rem;
+}
